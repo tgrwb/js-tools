@@ -1,6 +1,6 @@
 {
   "name": "@tgrwb/js-tools",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "JS-tools for my projects",
   "main": "index.js",
   "scripts": {

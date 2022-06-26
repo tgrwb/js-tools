@@ -1,10 +1,9 @@
-/** tgrwbVersion: 1.0 */
 /**
  * Модуль для работы с куки.
- * @module tgrwb-tools/tgrwb-cookies
+ * @module tgrwb/js-tools/libs/cookies
  *
  * @example
- *   const tgrwbCookies = require('tgrwb-tools/tgrwb-cookies.js');
+ *   const tgrwbCookies = require('@tgrwb/js-tools/libs/cookies');
  */
 const tgrwbCookies = {};
 module.exports = tgrwbCookies;
